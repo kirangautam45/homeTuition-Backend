@@ -1,0 +1,19 @@
+{
+  "name": "hometuition",
+  "version": "1.0.0",
+  "description": "home tuition for every one in low cost with user friendly",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^16.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/kirangautam45/Hometuition-Backend.git"
+  },
+  "author": "Kiran Gautam",
+  "license": "ISC"
+}
