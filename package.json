@@ -4,11 +4,23 @@
   "description": "home tuition for every one in low cost with user friendly",
   "main": "app.js",
   "dependencies": {
-    "node": "^16.9.1"
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.7",
+    "morgan": "^1.10.0",
+    "node": "^16.9.1",
+    "nodemon": "^2.0.12"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon /app.js"
   },
   "repository": {
     "type": "git",
