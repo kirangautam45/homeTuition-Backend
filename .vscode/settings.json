@@ -3,10 +3,13 @@
         "credentails",
         "customizederror",
         "erros",
+        "fileupload",
+        "forgotpassword",
         "fullname",
         "Gautam",
         "handeled",
         "hometuition",
-        "Kiran"
+        "Kiran",
+        "resettoken"
     ]
 }
